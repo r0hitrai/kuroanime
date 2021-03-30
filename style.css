@@ -1,0 +1,224 @@
+body
+{
+	background-color:#000000;
+	color:#ffffff;
+	font-family:Georgia,serif;
+}
+
+p1
+{
+	font-size:18px;
+}
+
+input[type=text]
+{
+	background-color:#4e5054;
+	border:2px solid grey;
+	border-radius:4px;
+	width:300;
+}
+
+input[type=password]
+{
+	background-color:#4e5054;
+	border:2px solid grey;
+	border-radius:4px;
+	width:300;
+}
+
+input[type=email]
+{
+	background-color:#4e5054;
+	border:2px solid grey;
+	border-radius:4px;
+	width:300;
+}
+
+input[type=search]
+{
+	background-color:#4e5054;
+	border:2px solid grey;
+	border-radius:4px;
+	width:200;
+}
+
+input[type=submit]
+{
+	background-color:#5077bd;
+	border:none;
+	border-radius:5px;
+	color:white;
+	padding:8px 16px;
+	text-decoration:none;
+	margin:4px 2px;
+	cursor:pointer;
+}
+
+a
+{
+	text-decoration:none;
+	color:#6495ed;
+}
+
+
+a:hover
+{
+	color:#5077bd;
+}
+
+p6 a
+{
+	display:block;
+	color:#000;
+	background-color:#a0a0a0;
+	padding:8px 16px;
+	border-radius:10px;
+}
+
+p6 a:hover:not(.active)
+{
+	background-color:#101010;
+	color:white;
+}
+
+.active
+{
+	background-color:#5077bd;
+	color:white;
+}
+
+.active:hover
+{
+	background-color:#5077bd;
+	color:white;
+}
+
+p6
+{
+	font-size:20px;
+}
+
+p2
+{
+	font-size:40px;
+}
+
+p3
+{
+	color:#555555;
+	font-size:20px;
+}
+
+p4
+{
+	font-size:20px;
+}
+
+p5
+{
+	font-size:20px;
+}
+
+ul
+{
+	list-style-image:url('paper_clip.png');
+	list-style-position:inside;
+	padding-left:10;
+}
+
+div
+{
+	background-color:#191919;
+	border-radius:10px;
+}
+
+td
+{
+	border-radius:10px;
+}
+
+th
+{
+	border-bottom:1px solid #4668a5;
+}
+
+p7
+{
+	font-size:18px;
+	color:white;
+}
+
+p7 a
+{
+	text-decoration:none;
+	color:white;
+}
+
+p7 a:hover
+{
+	color:#0a0e17;
+}
+
+p8
+{
+	font-size:18px;
+	color:#636363;
+}
+
+p9
+{
+	color:#636363;
+}
+
+p10
+{
+	font-size:40px;
+}
+
+p11
+{
+	color:#dfdfdf;
+	font-size:30px;
+}
+
+p12
+{
+	font-weight:bold;
+}
+
+p13
+{
+	color:#ff0000;
+}
+
+p14
+{
+	font-size:18px;
+	color:#e0eeee;
+}
+
+p15
+{
+	color:#e0eeee;
+}
+
+p16
+{
+	font-size:50px;
+}
+
+p17
+{
+	color:#555555;
+	font-size:20px;
+}
+
+p18
+{
+	font-size:20px;
+}
+p19
+{
+	font-size:50px;
+	color:#ff4500;
+}
